@@ -1,8 +1,8 @@
-# Created with komac v2.12.1
+# Created with WinGet Releaser using komac v2.12.1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: MiTeC.IconExplorer
-PackageVersion: 5.3.0
+PackageIdentifier: vim.vim.nightly
+PackageVersion: 9.1.1665
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0

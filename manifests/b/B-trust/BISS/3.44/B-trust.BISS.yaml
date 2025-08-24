@@ -1,8 +1,8 @@
-# Created with komac v2.12.1
+# Automatically updated by the winget bot at 2025/Aug/23
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: MiTeC.IconExplorer
-PackageVersion: 5.3.0
+PackageIdentifier: B-trust.BISS
+PackageVersion: '3.44'
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
