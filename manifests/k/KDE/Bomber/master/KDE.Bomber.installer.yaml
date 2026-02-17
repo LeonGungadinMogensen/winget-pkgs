@@ -1,5 +1,5 @@
 # Created with YamlCreate.ps1 Dumplings Mod
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: KDE.Bomber
 PackageVersion: master
@@ -9,15 +9,15 @@ ProductCode: bomber
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-775-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 5668AA49B816158C5339BAC46A57EEAABFCAE2D8942F5838BAE4C9AEB3D9563F
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-797-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: A52B88F58EF378CF4907F90B6AEDDBB2523CF0A8B094259A5C22173F954D69B5
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-775-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 5668AA49B816158C5339BAC46A57EEAABFCAE2D8942F5838BAE4C9AEB3D9563F
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-797-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: A52B88F58EF378CF4907F90B6AEDDBB2523CF0A8B094259A5C22173F954D69B5
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
-ManifestVersion: 1.10.0
+ManifestVersion: 1.12.0

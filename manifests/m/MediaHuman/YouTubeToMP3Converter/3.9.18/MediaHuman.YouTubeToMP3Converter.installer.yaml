@@ -1,5 +1,5 @@
 # Created with YamlCreate.ps1 Dumplings Mod
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: MediaHuman.YouTubeToMP3Converter
 PackageVersion: 3.9.18
@@ -11,9 +11,9 @@ ReleaseDate: 2025-12-01
 Installers:
 - Architecture: x86
   InstallerUrl: https://www.mediahuman.com/files/YouTubeToMP3.exe
-  InstallerSha256: BEEBCB8C6597DF0C6598D2D3AA12F68479FCCD18C40DA4C7D8AC06E1A4542BB7
+  InstallerSha256: 6FE122F5E2E5178C11983CF7CEBA0AD6E4FD14D612221199E41930207F134D4D
 - Architecture: x64
   InstallerUrl: https://www.mediahuman.com/files/YouTubeToMP3-x64.exe
-  InstallerSha256: 206CFBCB13F04FA3469B8EA9749C430E8390E50B9E5BB9E88BF1103E207543EE
+  InstallerSha256: DEC182717980D3FD91D13C500E40F89EAF1863AA552D0B1B0A38305591E7B4BE
 ManifestType: installer
-ManifestVersion: 1.10.0
+ManifestVersion: 1.12.0
