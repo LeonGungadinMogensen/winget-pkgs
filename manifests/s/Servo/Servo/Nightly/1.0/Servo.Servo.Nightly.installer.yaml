@@ -8,13 +8,13 @@ Scope: machine
 Protocols:
 - http
 - https
-ProductCode: '{701d3ccb-0e33-4d81-b1e1-4db33974ebfb}'
-ReleaseDate: 2026-03-27
+ProductCode: '{f215c64c-5ccf-4108-839f-492d510b3b9f}'
+ReleaseDate: 2026-03-29
 AppsAndFeaturesEntries:
 - DisplayName: ServoShell
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/servo/servo-nightly-builds/releases/download/2026-03-27/servo-x86_64-windows-msvc.exe
-  InstallerSha256: 2035DDD715A96E075723F54F2FB839D203EA9679D5F74420B809508F721DAC22
+  InstallerUrl: https://github.com/servo/servo-nightly-builds/releases/download/2026-03-29/servo-x86_64-windows-msvc.exe
+  InstallerSha256: 204DCA5DEC67733282B5AEA251DB6AF22556271941F70AA97110080F8B81EC4F
 ManifestType: installer
 ManifestVersion: 1.12.0
