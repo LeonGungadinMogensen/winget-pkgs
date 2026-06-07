@@ -9,14 +9,14 @@ ProductCode: minuet
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1083-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 319A5C2479DCE5392E82EF003493DD0E181B2AD9CD02724F22A7E4D394C95B5E
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1091-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 733BC23DFBFFD2C2C8E7D56128F8EE108E1842762B18ED29EA7E989B3503ABBA
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1083-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 319A5C2479DCE5392E82EF003493DD0E181B2AD9CD02724F22A7E4D394C95B5E
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/minuet/master/windows/minuet-master-1091-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 733BC23DFBFFD2C2C8E7D56128F8EE108E1842762B18ED29EA7E989B3503ABBA
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
