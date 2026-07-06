@@ -9,14 +9,14 @@ ProductCode: Chessament
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-720-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: D57F1E8D46FE1E30A0EBB975CF1AC6D9E6C01F913481D480A500A25727C1240D
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-724-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: C55D1C85582E46A28CAC62AB96E7DE48A57C7984CED9BD9CAEFF26E0F16DF840
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-720-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: D57F1E8D46FE1E30A0EBB975CF1AC6D9E6C01F913481D480A500A25727C1240D
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/chessament/master/windows/chessament-master-724-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: C55D1C85582E46A28CAC62AB96E7DE48A57C7984CED9BD9CAEFF26E0F16DF840
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
