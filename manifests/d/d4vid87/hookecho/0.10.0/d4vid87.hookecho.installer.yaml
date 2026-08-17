@@ -25,6 +25,6 @@ ArchiveBinariesDependOnPath: true
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/d4vid87/hookecho/releases/download/latest/hookecho-windows-x86_64.zip
-  InstallerSha256: 87C6192926C57DF91D58BEF06C6A107CF4087F94603EAF332297FAEC7AAFC0AD
+  InstallerSha256: 5AE63E2292CE75507028AC22780D3C09E15E21794779C90BB4541BA71D9C689A
 ManifestType: installer
 ManifestVersion: 1.12.0
